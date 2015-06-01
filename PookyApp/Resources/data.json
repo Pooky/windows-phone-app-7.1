@@ -1,0 +1,14 @@
+﻿{
+  "items":[
+    {
+      "ID":"15",
+      "Name":"Jan Novak",
+      "PhoneNumber":"+420 721 860 751"
+    },
+    {
+      "ID":"16",
+      "Name":"Jan Novak2",
+      "PhoneNumber":"+420 725 959 151"
+    }
+  ]
+}
